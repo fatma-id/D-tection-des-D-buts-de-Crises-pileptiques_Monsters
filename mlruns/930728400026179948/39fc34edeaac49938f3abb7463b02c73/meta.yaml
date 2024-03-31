@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/39fc34edeaac49938f3abb7463b02c73/artifacts
+end_time: 1711869112314
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 39fc34edeaac49938f3abb7463b02c73
+run_name: likeable-gnat-944
+run_uuid: 39fc34edeaac49938f3abb7463b02c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711869112194
+status: 3
+tags: []
+user_id: pc
