@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/756315747751390496/e4bb64a8913141848c6ce6605fe834f0/artifacts
+end_time: 1711862025929
+entry_point_name: ''
+experiment_id: '756315747751390496'
+lifecycle_stage: active
+run_id: e4bb64a8913141848c6ce6605fe834f0
+run_name: adaptable-pug-422
+run_uuid: e4bb64a8913141848c6ce6605fe834f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862025842
+status: 3
+tags: []
+user_id: pc

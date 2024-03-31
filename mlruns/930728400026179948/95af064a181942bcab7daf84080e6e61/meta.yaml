@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/95af064a181942bcab7daf84080e6e61/artifacts
+end_time: 1711862454827
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 95af064a181942bcab7daf84080e6e61
+run_name: rumbling-shark-239
+run_uuid: 95af064a181942bcab7daf84080e6e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862454758
+status: 3
+tags: []
+user_id: pc

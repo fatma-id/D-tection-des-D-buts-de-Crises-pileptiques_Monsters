@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/4a309494c9c741b6a4e4bed6b5bfc2f8/artifacts
+end_time: 1711866797502
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 4a309494c9c741b6a4e4bed6b5bfc2f8
+run_name: marvelous-grouse-563
+run_uuid: 4a309494c9c741b6a4e4bed6b5bfc2f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711866797275
+status: 3
+tags: []
+user_id: pc

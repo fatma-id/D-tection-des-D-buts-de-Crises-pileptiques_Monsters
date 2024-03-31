@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/599775f2464c49808c1917a1ef9643cd/artifacts
+end_time: 1711863193764
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 599775f2464c49808c1917a1ef9643cd
+run_name: shivering-gull-169
+run_uuid: 599775f2464c49808c1917a1ef9643cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711863193684
+status: 3
+tags: []
+user_id: pc

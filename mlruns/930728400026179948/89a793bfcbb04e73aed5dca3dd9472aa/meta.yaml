@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/89a793bfcbb04e73aed5dca3dd9472aa/artifacts
+end_time: 1711862376839
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 89a793bfcbb04e73aed5dca3dd9472aa
+run_name: big-squid-541
+run_uuid: 89a793bfcbb04e73aed5dca3dd9472aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862376767
+status: 3
+tags: []
+user_id: pc

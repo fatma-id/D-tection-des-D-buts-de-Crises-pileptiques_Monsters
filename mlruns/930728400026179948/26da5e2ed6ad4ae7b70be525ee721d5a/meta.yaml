@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/26da5e2ed6ad4ae7b70be525ee721d5a/artifacts
+end_time: 1711862567618
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 26da5e2ed6ad4ae7b70be525ee721d5a
+run_name: kindly-dove-135
+run_uuid: 26da5e2ed6ad4ae7b70be525ee721d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862567547
+status: 3
+tags: []
+user_id: pc

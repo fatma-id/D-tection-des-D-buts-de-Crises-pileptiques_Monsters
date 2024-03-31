@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/b7a7ff4f9e0a420e94b55f94430bf5c5/artifacts
+end_time: 1711863853242
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: b7a7ff4f9e0a420e94b55f94430bf5c5
+run_name: painted-whale-656
+run_uuid: b7a7ff4f9e0a420e94b55f94430bf5c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711863853095
+status: 3
+tags: []
+user_id: pc

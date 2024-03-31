@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/db7cc537dc6a4610a0d09ccd392dfea8/artifacts
+end_time: 1711863043461
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: db7cc537dc6a4610a0d09ccd392dfea8
+run_name: chill-mule-185
+run_uuid: db7cc537dc6a4610a0d09ccd392dfea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711863043372
+status: 3
+tags: []
+user_id: pc

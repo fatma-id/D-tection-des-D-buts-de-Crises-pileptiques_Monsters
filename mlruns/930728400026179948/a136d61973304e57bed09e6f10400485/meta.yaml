@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/a136d61973304e57bed09e6f10400485/artifacts
+end_time: 1711862822747
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: a136d61973304e57bed09e6f10400485
+run_name: receptive-dog-631
+run_uuid: a136d61973304e57bed09e6f10400485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862822667
+status: 3
+tags: []
+user_id: pc

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/babc79a9f19946de91cfa78077817a98/artifacts
+end_time: 1711862720140
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: babc79a9f19946de91cfa78077817a98
+run_name: wise-kite-393
+run_uuid: babc79a9f19946de91cfa78077817a98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711862720066
+status: 3
+tags: []
+user_id: pc

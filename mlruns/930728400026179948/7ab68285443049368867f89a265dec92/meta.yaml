@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/930728400026179948/7ab68285443049368867f89a265dec92/artifacts
+end_time: 1711863112080
+entry_point_name: ''
+experiment_id: '930728400026179948'
+lifecycle_stage: active
+run_id: 7ab68285443049368867f89a265dec92
+run_name: efficient-rat-563
+run_uuid: 7ab68285443049368867f89a265dec92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711863112006
+status: 3
+tags: []
+user_id: pc

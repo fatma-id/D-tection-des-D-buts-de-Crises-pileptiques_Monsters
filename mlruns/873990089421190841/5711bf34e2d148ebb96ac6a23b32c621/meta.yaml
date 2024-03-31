@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/873990089421190841/5711bf34e2d148ebb96ac6a23b32c621/artifacts
+end_time: 1711861616890
+entry_point_name: ''
+experiment_id: '873990089421190841'
+lifecycle_stage: active
+run_id: 5711bf34e2d148ebb96ac6a23b32c621
+run_name: tasteful-kit-838
+run_uuid: 5711bf34e2d148ebb96ac6a23b32c621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711861602745
+status: 3
+tags: []
+user_id: pc

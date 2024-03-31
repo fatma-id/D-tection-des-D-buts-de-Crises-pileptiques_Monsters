@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/AI_Night_Challenge/mlruns/518679467452281808/02481687bc2f434bb8284e0be7a13051/artifacts
+end_time: 1711861539578
+entry_point_name: ''
+experiment_id: '518679467452281808'
+lifecycle_stage: active
+run_id: 02481687bc2f434bb8284e0be7a13051
+run_name: dazzling-croc-695
+run_uuid: 02481687bc2f434bb8284e0be7a13051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711861539482
+status: 3
+tags: []
+user_id: pc
